@@ -1,0 +1,25 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="KopyalaYapistir">
+			<method name="Kopyala"/>
+			<method name="Yapistir"/>
+		</type>
+		<type fullname="Lobi">
+			<method name="disconnectOnline"/>
+			<method name="disconnectRoom"/>
+			<method name="Lobi_Katıl"/>
+			<method name="Lobi_Katıl"/>
+			<method name="Lobi_olustur"/>
+			<method name="Online_Ol"/>
+		</type>
+		<type fullname="UI_Degis">
+			<method name="Degis"/>
+			<method name="Degis"/>
+			<method name="Degis"/>
+			<method name="Degis"/>
+			<method name="Degis"/>
+			<method name="Degis"/>
+			<method name="Degis"/>
+		</type>
+	</assembly>
+</linker>
